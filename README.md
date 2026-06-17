@@ -1,4 +1,4 @@
-# Blue Crab population dynamics
+# Blue Crab population dynamics - PYTHON
 
 A Python-based simulation and analysis framework for modelling the population dynamics of the blue crab (*Callinectes sapidus*) in response to environmental and biological drivers.
 
